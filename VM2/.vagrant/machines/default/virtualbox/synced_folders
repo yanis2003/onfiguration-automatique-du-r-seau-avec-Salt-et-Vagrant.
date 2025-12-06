@@ -1,0 +1,1 @@
+{"virtualbox":{"/vagrant":{"owner":"debian-tp","guestpath":"/vagrant","hostpath":"C:/Users/yanis/reseaux/TP2/VM2","disabled":false,"__vagrantfile":true},"/mnt/partage":{"create":true,"owner":"debian-tp","guestpath":"/mnt/partage","hostpath":"C:/Users/yanis/reseaux/TP2/partage","disabled":false,"__vagrantfile":true}}}
